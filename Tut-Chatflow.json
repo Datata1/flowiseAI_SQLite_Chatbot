@@ -95,7 +95,7 @@
         ],
         "inputs": {
           "cache": "",
-          "basePath": "https://55232-3000.4.codesphere.com/v1",
+          "basePath": "<your URL>/v1",
           "modelName": "codellama-7b-instruct.Q5_K_M.gguf",
           "temperature": 0.9,
           "maxTokens": "300",
